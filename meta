@@ -1,0 +1,6 @@
+name: PlayerDamian3
+author: Damian Czapski
+command: java -jar PlayerDamian3.jar
+start-message: ZACZYNAJ
+win-message: WYGRALES
+loss-message: PRZEGRALES
